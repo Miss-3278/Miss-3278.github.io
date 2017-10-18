@@ -1,11 +1,12 @@
 ---
-title: 2017 Birthday diary
+title: 日以乾乾
+description: 2017 年里程碑，生日记。
 date: 2017-10-18 22:06:30
-categories: Life
+categories: 
+ - Life
 tags:
 ---
 
-## 日以乾乾
 
 > 《周易·乾》有云：“君子终日乾乾，夕惕，若厉，无咎。” 
 >  2017 年里程碑，生日记。

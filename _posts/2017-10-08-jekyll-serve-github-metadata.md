@@ -50,7 +50,7 @@ GitHub Metadata: No GitHub API authentication could be found. Some fields may be
 
     2) 使用 cp 命令，把文件复制到 `/usr/local/etc/openssl/certs/` 文件加下。
 
-    `cp -r cacer.pem /usr/local/etc/openssl/certs/`
+    `cp -r cacert.pem /usr/local/etc/openssl/certs/`
 
     3) 打开终端，输入 `nano ~/.bash_profile `。
 

@@ -11,6 +11,8 @@ tags: [Privoxy, sock5, http, Google Drive]
 
 ![](http://wx3.sinaimg.cn/large/6a959c93ly1fmjvyv7t9gj20m80euqjm.jpg)
 
+(图片来自一位开智学友)
+
 ## 错误诊断：Proxy （代理）
 
 登录 Google Drive 出现的错误提示：

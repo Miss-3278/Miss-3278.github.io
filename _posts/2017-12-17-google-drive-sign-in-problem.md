@@ -32,7 +32,6 @@ tags: [Privoxy, sock5, http, Google Drive]
 
 ```
 brew install privoxy
-
 ```
 
 ### step2 修改 Privoxy config （配置文件）
@@ -53,7 +52,6 @@ sudo vim /usr/local/etc/privoxy/config
 #    forward-socks4a   /               127.0.0.1:1086 .
 #    forward-socks5    /                127.0.0.1:1086 .
 #    forward-socks5t   /               127.0.0.1:1086 .
-
 ```
 需要注意的地方：
 
@@ -103,9 +101,11 @@ tcp4       0      0  127.0.0.1.8118         *.*                    LISTEN
 
 1. Chrome 下的 SwitchOmega 扩展，按照如下配置：
 
+
   ![](https://blog.phpgao.com/usr/uploads/2015/06/3978620669.png)
 
-  （该图片来自 [老高的技术博客](https://blog.phpgao.com/privoxy-shadowsocks.html)
+
+  （该图片来自 [老高的技术博客](https://blog.phpgao.com/privoxy-shadowsocks.html))
 
 2. 在 ~/.bashrc （环境变量）中加入下面的代码
 
@@ -122,7 +122,7 @@ tcp4       0      0  127.0.0.1.8118         *.*                    LISTEN
 
   当我以为还缺少什么的时候，Google Drive 瞬间登录。前一秒还阴云蔽日，下一秒便云开月现，技术的快乐也许就在于此。
 
-![](http://wx3.sinaimg.cn/large/6a959c93ly1fmjy61pms0j218011ydpz.jpg)
+  ![](http://wx3.sinaimg.cn/large/6a959c93ly1fmjy61pms0j218011ydpz.jpg)
 
 说明：我是技术小白，我不知道在 step4 的每一个步骤是否必须，我只是在尝试，最后到一个步骤的时候发现神奇地登录了，请大牛勿喷，照顾一下小白辛苦三个多小时的扫脑煎熬，还有写这篇文章花了一个多小时的劳动成果。
 

@@ -74,7 +74,6 @@ listen-address  192.168.1.1:8118
 
 ```
 sudo /usr/local/sbin/privoxy /usr/local/etc/privoxy/config
-
 ```
 
 2. 查看是否启动成功，使用命令：
@@ -132,10 +131,10 @@ tcp4       0      0  127.0.0.1.8118         *.*                    LISTEN
 
 * [Privoxy - Home Page](http://www.privoxy.org/)
 * [Privoxy - Wikipedia](https://en.wikipedia.org/wiki/Privoxy)
-* [Socks代理和http代理的区别 – Wrfly's blog – Think|Hack|Share](https://wrfly.kfd.me/SOCKS%E4%BB%A3%E7%90%86%E5%92%8CHTTP%E4%BB%A3%E7%90%86%E7%9A%84%E5%8C%BA%E5%88%AB/)
+* [Socks代理和http代理的区别 – Wrfly's blog ](https://wrfly.kfd.me/SOCKS%E4%BB%A3%E7%90%86%E5%92%8CHTTP%E4%BB%A3%E7%90%86%E7%9A%84%E5%8C%BA%E5%88%AB/)
 * [你是Socket，我是HTTP Proxy – 记录点滴生活](https://davidlovezoe.wordpress.com/2017/01/05/socket-http-proxy/)
 * [使用Privoxy将socks5代理转为http代理 - 老高的技术博客](https://blog.phpgao.com/privoxy-shadowsocks.html)
 * [Mac上Privoxy将shadowsocks的socks5代理转为http代理(解决SublimeText无法安装插件的问题) - CSDN博客](http://blog.csdn.net/yanzi1225627/article/details/51064306)
-* [socks5代理转http代理 | linsage的博客](https://linsage.xyz/2017/06/13/%E6%8A%80%E6%9C%AF/Socks5%E4%BB%A3%E7%90%86%E8%BD%ACHttp%E4%BB%A3%E7%90%86/)
+* [socks5代理转http代理 - linsage的博客](https://linsage.xyz/2017/06/13/%E6%8A%80%E6%9C%AF/Socks5%E4%BB%A3%E7%90%86%E8%BD%ACHttp%E4%BB%A3%E7%90%86/)
 * [Mac上配置Privoxy - DeviLeo - 博客园](http://www.cnblogs.com/DeviLeo/p/6033591.html)
 * [如何用 Privoxy 辅助翻墙？ @ 编程随想的博客](https://program-think.blogspot.com/2014/12/gfw-privoxy.html)

@@ -29,13 +29,13 @@ tags: [Proxifier sock5, http, Google Drive]
 
 1. 检查 Proxies（代理服务器）配置，需要与 shadowsocks 的本地端口一致。我使用 shadowsocksx-ng，需要更改为 127.0.0.1:1086 。
 
-![](http://wx3.sinaimg.cn/large/6a959c93ly1fmktvd3licj218g0mygq7.jpg)
+   ![](http://wx3.sinaimg.cn/large/6a959c93ly1fmktvd3licj218g0mygq7.jpg)
 
 2. 设置 Rules（规则）：在 Google Desktop Softwares 一处增加 Backup and Sync 。
 
-![](https://i.loli.net/2017/11/25/5a19298ec59dc.jpg)
+   ![](https://i.loli.net/2017/11/25/5a19298ec59dc.jpg)
 
-(图片来自 [Bates' Blog](https://blog.batesma.com/))
+   (图片来自 [Bates' Blog](https://blog.batesma.com/))
 
 上述步骤顺利完成，Google Drive 又重新登录啦。早晨我问自己，费劲不？为啥不放弃这个另选一个云端，这样折腾来折腾去的……我想到了高中时候学了王安石的《游褒禅山记》中的一段：
 

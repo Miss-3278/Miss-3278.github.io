@@ -1,7 +1,7 @@
 ---
 title: Zotero 基础设置填坑记
 description: 工欲善其事，开始利其器。
-date: 2017-12-18 19: 44
+date: 2017-12-18 19：44
 categories: 
  - strong tools
 tags: [Zotero]
@@ -13,9 +13,9 @@ Zotero 是一款文件管理软件，阳志平老师力荐，入门有一些门�
 
 1. 关于 Zotero sandstone 的版本选择
 
-  Zotero 最新的版本是 5.x，经过实践，到这篇文章的写作时间，仍然有部分插件不支持 Zotero 5，因此，我还是退回到 Zotero 4 版本。
+   Zotero 最新的版本是 5.x，经过实践，到这篇文章的写作时间，仍然有部分插件不支持 Zotero 5，因此，我还是退回到 Zotero 4 版本。
 
-  下载地址：[Zotero - Downloads](https://www.zotero.org/download/)
+   下载地址：[Zotero - Downloads](https://www.zotero.org/download/)
   
 2. 除了 PC 版本的 Zotero sandstone，再下载一个 Zotero Connector 作为浏览器插件。
 
@@ -89,40 +89,40 @@ Notability 是一款 PDF 阅读器，好评如潮。设置请参考 [Zotero（3�
 
 1. zotfile 
 
-  zotero/storage 目录导出的文档是下面（图一）这样的，比较凌乱，因此需要用 zotfile 插件方便在 iPad 上找到文档，使用 zotfile 后的呈现（图二）
+    zotero/storage 目录导出的文档是下面（图一）这样的，比较凌乱，因此需要用 zotfile 插件方便在 iPad 上找到文档，使用 zotfile 后的呈现（图二）
   
-  ![](http://wx2.sinaimg.cn/large/6a959c93ly1fmlaierrlcj216i0hgtgx.jpg)
+   ![](http://wx2.sinaimg.cn/large/6a959c93ly1fmlaierrlcj216i0hgtgx.jpg)
 
-  （图一）
+   （图一）
   
-  ![](http://wx4.sinaimg.cn/large/6a959c93ly1fmlaiftuxlj217s0iqgt7.jpg)
+   ![](http://wx4.sinaimg.cn/large/6a959c93ly1fmlaiftuxlj217s0iqgt7.jpg)
   
-  （图二）
+   （图二）
 
-  参考 [Zotero（4）：Zotero之Zotfile插件的使用 ](http://www.yangzhiping.com/tech/zotero4.html) 进行设置。
+   参考 [Zotero（4）：Zotero之Zotfile插件的使用 ](http://www.yangzhiping.com/tech/zotero4.html) 进行设置。
 
-  基本思路是导入到 Zotero 的 PDF 文档使用 「Manage Attachments」选项（安装 zotfile 才有），可以 「Rename Attachments」，然后将其发送到 iPad 「Send to Tablet」，在 iPad 上阅读批注之后，还能导回来「Get from Tablet」。
+   基本思路是导入到 Zotero 的 PDF 文档使用 「Manage Attachments」选项（安装 zotfile 才有），可以 「Rename Attachments」，然后将其发送到 iPad 「Send to Tablet」，在 iPad 上阅读批注之后，还能导回来「Get from Tablet」。
 
-  在这个过程中我遇到过一个错误报告，复述如下：
+   在这个过程中我遇到过一个错误报告，复述如下：
 
-  > Zotfile: Renamed Attachments
-  Attachments skipped because they are top-level items, snapshots or the file does not exist.
+   > Zotfile: Renamed Attachments
+   Attachments skipped because they are top-level items, snapshots or the file does not exist.
   
-  Google 了很多英文文档都没能解决问题，结果一个知乎解决了。抱歉我暂时找不到这篇文章了，简单说一下，就是我保存的 PDF 不是附件的形式，因此 Zotfile 找不到。解决的办法是右键点击 PDF 文档 --> Retrieve Metadata for PDF（检索 PDF 元数据）。
+   Google 了很多英文文档都没能解决问题，结果一个知乎解决了。抱歉我暂时找不到这篇文章了，简单说一下，就是我保存的 PDF 不是附件的形式，因此 Zotfile 找不到。解决的办法是右键点击 PDF 文档 --> Retrieve Metadata for PDF（检索 PDF 元数据）。
 
-  ![](http://wx2.sinaimg.cn/large/6a959c93ly1fmlaig3w5fj21840rannv.jpg)
+   ![](http://wx2.sinaimg.cn/large/6a959c93ly1fmlaig3w5fj21840rannv.jpg)
 
-  之后 按照阳老师文章中的方法，Zotfile 就起作用了。具体操作参考官方文档： [ZotFile - Advanced PDF management for Zotero](http://zotfile.com/index.html#changelog)
+   之后 按照阳老师文章中的方法，Zotfile 就起作用了。具体操作参考官方文档： [ZotFile - Advanced PDF management for Zotero](http://zotfile.com/index.html#changelog)
   
 2. papermachine
+   
+   这个插件可以对一个类别论文进行「文献可视化」分析，下载安装基本没有难度，但是我并没有实现可视化词云，也许是我的 Zotero 还没有那么多文档的缘故，过一段时间在看一下。
   
-  这个插件可以对一个类别论文进行「文献可视化」分析，下载安装基本没有难度，但是我并没有实现可视化词云，也许是我的 Zotero 还没有那么多文档的缘故，过一段时间在看一下。
-  
-  下载地址：[Paper Machines](http://papermachines.org/install/)
+   下载地址：[Paper Machines](http://papermachines.org/install/)
   
 3. Markdown here
 
-  用 Markdown 在 Zotero 里做笔记用的，参考 [Zotero（5）：电子文献管理攻略 ](http://www.yangzhiping.com/tech/zotero5.html) 问题 6
+   用 Markdown 在 Zotero 里做笔记用的，参考 [Zotero（5）：电子文献管理攻略 ](http://www.yangzhiping.com/tech/zotero5.html) 问题 6
   
 
 到此，Zotero 基础设置完成，用了大概 48 小时的探索，时间跨度一周。接下来，开启神奇之旅……

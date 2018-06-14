@@ -1,11 +1,11 @@
-```
+---
 title: 翻译训练之《老人与海》0001 
 description: 于翻译中学习写作之自我训练
 date: 2018-06-14
 categories:
  - Translation Training
 tags: [《The Old Man and the Sea》][《老人与海》]
-```
+---
 
 #### 原文：
 

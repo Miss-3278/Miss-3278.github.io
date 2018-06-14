@@ -7,9 +7,11 @@ categories:
 tags: [《The Old Man and the Sea》][《老人与海》]
 ---
 
-#### 原文：
+### 原文：
 
 > The successful fishermen of that day were already in and had butchered their marlin out and carried them laid full length across two planks, with two men staggering at the end of each plank, to the fish house where they waited for the ice truck to carry them to the market in Havana.
+
+### 我的翻译
 
 #### 我之前的翻译
 
@@ -19,13 +21,13 @@ tags: [《The Old Man and the Sea》][《老人与海》]
 
 > 那天收获满满的渔夫都已经在了，他们在外面杀掉马林鱼，将鱼平铺到两片足够长的木板上，两个男人抬着木板两端，蹒跚而行到鱼房，等着冰卡车来，载着鱼到哈瓦那的鱼市去。
 
-#### 对比余光中、张爱玲的翻译
+### 对比余光中、张爱玲的翻译
 
-##### 余光中翻译
+#### 余光中翻译
 
 > 这一天，满载的渔人已经归来，正剖好马林鱼，横放在两条木板子上，每条板端由两个渔人蹒跚地抬着，走向鱼库;再等冰车载去哈瓦那的市场。
 
-##### 张爱玲翻译
+#### 张爱玲翻译
 
 > 今天收获好的渔人都已经回来了，把他们的马林鱼宰杀了，把鱼平放在两块木板上，一头一个人抬着，蹒跚的走到鱼房里，在那里等着冰车把鱼运到哈瓦市场去。
 
@@ -45,7 +47,7 @@ tags: [《The Old Man and the Sea》][《老人与海》]
 
   根据上面的总结，学习张爱玲用「把」字句，发现张爱玲是将「把」字句贯穿到底，「把鱼杀了，把鱼平放在木板上，把鱼运到市场去」，这样主语都是人，句式整齐。再看余光中的翻译「再等冰车载去哈瓦那的市场」，中间暗含着「把鱼」怎么样的意思。
 
-#### 收获
+### 收获
 
 - 这次练习特别练习清单：统一主语，用动词带动句子。使用「杀」「抬」「蹒跚而行」「等着」「载着」动词。「杀鱼」的「杀」单调不形象，可以换用动词「剖」「宰」……（想到再增补）
 
